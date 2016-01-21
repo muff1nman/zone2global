@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"flag"
 	"fmt"
-	"github.com/scottdware/go-junos"
+	"github.com/muff1nman/go-junos"
 	"os"
 	"strings"
 )
